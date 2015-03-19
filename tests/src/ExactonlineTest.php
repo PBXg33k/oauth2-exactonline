@@ -1,7 +1,7 @@
 <?php
 namespace Pbxg33k\OAuth2\Client\Test\Provider;
 
-use Pbxg33k\OAuth2\Client\Provider\Exactonline;
+use Pbxg33k\OAuth2\Client\Provider\ExactOnline;
 use League\OAuth2\Client\Token\AccessToken;
 use Mockery as m;
 
