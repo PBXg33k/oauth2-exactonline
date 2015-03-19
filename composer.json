@@ -1,0 +1,14 @@
+{
+    "name": "pbxg33k/oauth2-exact-provider",
+    "description": "Exact Online 2.0 Client Provider for The PHP Leage OAuth2-Client",
+    "require": {
+        "league/oauth2-client": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oguzhan Uysal",
+            "email": "oss@oguzhanuysal.eu"
+        }
+    ]
+}
