@@ -5,7 +5,7 @@
         "league/oauth2-client": "~1.0"
     },
     "license": "MIT",
-    "homepage": "ithub.com/PBXg33k/oauth2-exactonline",
+    "homepage": "https://github.com/PBXg33k/oauth2-exactonline",
     "authors": [
         {
             "name": "Oguzhan Uysal",
