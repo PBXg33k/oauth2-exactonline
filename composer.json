@@ -5,10 +5,21 @@
         "league/oauth2-client": "~1.0"
     },
     "license": "MIT",
+    "homepage": "ithub.com/PBXg33k/oauth2-exactonline",
     "authors": [
         {
             "name": "Oguzhan Uysal",
             "email": "oss@oguzhanuysal.eu"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pbxg33k\\OAuth2\\Client\\Provider\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pbxg33k\\OAuth2\\Client\\Test\\Provider\\": "tests/src/"
+        }
+    }
 }
