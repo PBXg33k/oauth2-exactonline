@@ -72,7 +72,8 @@ class ExactOnline extends AbstractProvider
 	public function fetch($url, AccessToken $token)
 	{
 		$this->token = $token;
-		return $this->fetchProviderData($url);
+		// The second argument is required or else the server will return XML
+		return $this->fetchProviderData($url, ['Accept'=>'application/json']);
 	}
 
 	public function fetchCurrentDivision(AccessToken $token)
