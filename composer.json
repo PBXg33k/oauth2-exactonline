@@ -2,7 +2,11 @@
     "name": "pbxg33k/oauth2-exact-provider",
     "description": "Exact Online 2.0 Client Provider for The PHP Leage OAuth2-Client",
     "require": {
-        "league/oauth2-client": "~1.0"
+        "league/oauth2-client": "~0.10.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "mockery/mockery": "~0.9"
     },
     "license": "MIT",
     "homepage": "https://github.com/PBXg33k/oauth2-exactonline",
