@@ -1,4 +1,5 @@
 # Exact Online Provider for OAuth 2.0 Client
+[![Build Status](https://travis-ci.org/PBXg33k/oauth2-client.svg)](https://travis-ci.org/PBXg33k/oauth2-client)
 
 This package provides support for authenticating with Exact Online's OAuth2 provider using PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
@@ -7,7 +8,7 @@ This package provides support for authenticating with Exact Online's OAuth2 prov
 To install, use composer:
 
 ```
-composer require pbxg33k/oauth2-exactonline
+composer require pbxg33k/oauth2-exact-provider
 ```
 
 ## Usage
