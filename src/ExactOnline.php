@@ -1,5 +1,4 @@
 <?php
-
 namespace Pbxg33k\OAuth2\Client\Provider;
 
 use League\OAuth2\Client\Entity\User;
