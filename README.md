@@ -3,6 +3,9 @@
 
 This package provides support for authenticating with Exact Online's OAuth2 provider using PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
+## Demo
+Click [here](http://oauth2-exactonline.demos.oguzhanuysal.eu/ "OAuth2 for Exact Online demo") to see an online demonstration which allows you to authenticate using an Exact account.
+
 ## Installation
 
 To install, use composer:
